@@ -43,6 +43,7 @@ html, body {
     -o-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	font-smoothing: antialiased;
+	
 }
 body {
 	background: #ffffff none repeat scroll 0 0;
